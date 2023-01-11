@@ -1,4 +1,4 @@
-import pymysql
+
 import uuid
 from flask import jsonify, request
 from helper.dbhelper import Database as db
